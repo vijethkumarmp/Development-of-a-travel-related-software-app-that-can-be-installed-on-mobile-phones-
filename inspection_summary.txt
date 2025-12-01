@@ -1,0 +1,23 @@
+Unzipped to: /mnt/data/tripbro_project_work
+Total files: 175
+Files containing keywords: 18
+
+Preview of matched files (first 40):
+/mnt/data/tripbro_project_work/App.tsx
+/mnt/data/tripbro_project_work/constants.tsx
+/mnt/data/tripbro_project_work/vite.config.ts
+/mnt/data/tripbro_project_work/README.md
+/mnt/data/tripbro_project_work/package.json
+/mnt/data/tripbro_project_work/index.html
+/mnt/data/tripbro_project_work/.env.local
+/mnt/data/tripbro_project_work/services/geminiService.ts
+/mnt/data/tripbro_project_work/features/SOS.tsx
+/mnt/data/tripbro_project_work/features/TravelScrapbook.tsx
+/mnt/data/tripbro_project_work/src/App.tsx
+/mnt/data/tripbro_project_work/src/constants.tsx
+/mnt/data/tripbro_project_work/src/services/geminiService.ts
+/mnt/data/tripbro_project_work/src/features/ItineraryBuilder.tsx
+/mnt/data/tripbro_project_work/src/features/SOS.tsx
+/mnt/data/tripbro_project_work/src/features/TravelScrapbook.tsx
+/mnt/data/tripbro_project_work/src/features/LoginPage.tsx
+/mnt/data/tripbro_project_work/src/features/VideoMemories.tsx

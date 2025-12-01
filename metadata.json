@@ -1,0 +1,8 @@
+{
+  "name": "TripBro: Smart Travel Planner",
+  "description": "TripBro is an AI-powered travel platform to plan, manage, and enhance your journeys. Features include a smart itinerary builder, cultural and language helper, expense manager, and more to make your travel seamless and unforgettable.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
